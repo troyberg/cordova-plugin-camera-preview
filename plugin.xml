@@ -22,6 +22,8 @@
     <source-file src="src/android/camera_activity.xml" target-dir="res/layout" />
     <source-file src="src/android/camera_theme.xml" target-dir="res/values" />
     <source-file src="src/android/camera_ids.xml" target-dir="res/values" />
+    
+    <framework src="com.android.support:exifinterface:26+" />
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="CameraPreview">
