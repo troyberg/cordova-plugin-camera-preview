@@ -33,6 +33,7 @@ import android.view.ViewTreeObserver;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
+import android.media.ExifInterface;
 
 import org.apache.cordova.LOG;
 
